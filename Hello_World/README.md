@@ -1,3 +1,7 @@
+### Name: Muhammad Taha Qaiser
+### Roll number: 21K-4779
+### Section: BCY-4A
+
 # Objectives:
 
 - Changing the name of the kernel to anything you want
@@ -33,7 +37,9 @@ Download the kernel version of your choice from `https://kernel.org/`. I used ve
 ![1 downloading and extracting kernel](https://user-images.githubusercontent.com/115342166/221254019-e8374278-87a2-418d-abf2-48d48c7d6dd6.PNG)
 ---
 
-Now edit the `Makefile` and change the `EXTRAVERSION` variable to anything you want. I assigned it my roll number (21k-4779)
+## Achieving objectives:
+
+Edit the `Makefile` and change the `EXTRAVERSION` variable to anything you want. I assigned it my roll number (21k-4779)
 
 ---
 ![2 naming kernel 2](https://user-images.githubusercontent.com/115342166/221254041-07b4a35f-2db9-4b8a-a5db-9fec6f1e20cc.PNG)

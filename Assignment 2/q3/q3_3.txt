@@ -1,4 +1,8 @@
-To use the SJF non-preemptive scheduling algorithm to bake pizzas in the shortest possible time, you would need to prioritize the pizzas based on their baking time, i.e., the amount of time it takes to bake each pizza.
+ Answer 3
+--------------------------------------------------------------------------------
+To use the SJF non-preemptive scheduling algorithm to bake pizzas in the shortest possible time, 
+you would need to prioritize the pizzas based on their baking time, i.e., the amount of time it takes 
+to bake each pizza.
 
 Here's how you could implement the SJF non-preemptive scheduling algorithm in a pizza restaurant with a single oven:
 
@@ -24,3 +28,5 @@ Pizza 2 (8 minutes)
 Pizza 1 (10 minutes)
 ...
 Pizza 3 (12 minutes)
+
+--------------------------------------------------------------------------------
